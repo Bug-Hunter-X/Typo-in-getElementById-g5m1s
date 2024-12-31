@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in JavaScript within an HTML file. The error involves a simple typo in the commonly used `getElementById` method, which is crucial for dynamic content manipulation in web pages.  The `bug.html` file exhibits the error, while the `solution.html` file provides the correct implementation.
